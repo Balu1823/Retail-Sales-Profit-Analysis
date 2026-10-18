@@ -1,0 +1,34 @@
+Retail Sales Profit Analysis Using Microsoft Excel
+
+Project Overview
+This project analyzes retail sales data using Microsoft Excel to understand sales performance, profitability, product categories, and regional trends.
+
+ Tools Used
+- Microsoft Excel
+- Data Cleaning
+- Excel Formulas
+- PivotTables
+- Charts and Dashboard
+
+ Project Files
+- `Retail_Sales_Cleaned (1).xlsx` – Cleaned retail sales dataset.
+- Main Excel analysis workbook – Sales analysis, PivotTables, charts, and dashboard.
+
+ Business Questions
+- Which state generates the highest sales?
+- Which product category generates the highest sales?
+- Which products or categories are most profitable?
+- What are the major sales and profit trends?
+
+ Deliverables
+- Cleaned dataset
+- Sales and profit analysis
+- PivotTables
+- Excel dashboard
+- Business insights
+
+ How to View
+Download the Excel workbook from this repository and open it in Microsoft Excel to explore the analysis and dashboard.
+
+Author
+Hanuma Balaji
